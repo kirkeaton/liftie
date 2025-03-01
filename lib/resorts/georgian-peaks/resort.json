@@ -1,0 +1,15 @@
+{
+  "name": "Georgian Peaks",
+  "url": {
+    "host": "https://www.georgianpeaks.com",
+    "pathname": "/Winter_Operations/Conditions"
+  },
+  "tags": [
+    "Ontario"
+  ],
+  "ll": [
+    -80.3767,
+    44.5350
+  ],
+  "twitter": "georgianpeaks"
+}
